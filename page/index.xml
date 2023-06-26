@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Pages on HG021B</title>
+        <link>https://demo.stack.jimmycai.com/page/</link>
+        <description>Recent content in Pages on HG021B</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en</language>
+        <lastBuildDate>Tue, 28 May 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://demo.stack.jimmycai.com/page/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>归档</title>
+        <link>https://demo.stack.jimmycai.com/archives/</link>
+        <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
+        
+        <guid>https://demo.stack.jimmycai.com/archives/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>关于</title>
+        <link>https://demo.stack.jimmycai.com/%E5%85%B3%E4%BA%8E/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://demo.stack.jimmycai.com/%E5%85%B3%E4%BA%8E/</guid>
+        <description>&lt;h2 id=&#34;简介&#34;&gt;简介&lt;/h2&gt;
+&lt;p&gt;  我们是HG021B小组，坐落上海徐汇，标志是一只从绅士帽中探索外界的紫色兔子。绅士帽和探索兔的结合就像&amp;quot;Rabbit Hole&amp;quot;，这是我们在未知攻防世界中探索的象征。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;核心目标：推动网络安全发展，秉承Hacking Club精神与众多爱好者们分享技术共同进步。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;研究方向：漏洞分析、靶场、AWD、CTF&amp;hellip;&amp;hellip;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;加-入-我-们-&#34;&gt;加 入 我 们 ~&lt;/h2&gt;
+&lt;p&gt;  &lt;strong&gt;编辑一封email，标题为《xxx-HG021B申请》并附上你的简历发送到&lt;/strong&gt;&lt;a class=&#34;link&#34; href=&#34;mailto:HG021B@outlook.com&#34; &gt;HG021B@outlook.com&lt;/a&gt;&lt;strong&gt;我们收到后会在1-3个工作日内与你取得联系。&lt;/strong&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>搜索</title>
+        <link>https://demo.stack.jimmycai.com/search/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://demo.stack.jimmycai.com/search/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>友链</title>
+        <link>https://demo.stack.jimmycai.com/%E5%8F%8B%E9%93%BE/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://demo.stack.jimmycai.com/%E5%8F%8B%E9%93%BE/</guid>
+        <description>&lt;h1 id=&#34;互换友链&#34;&gt;互换友链&lt;/h1&gt;
+&lt;p&gt; 如需要互换友链，请编辑标题为 &lt;strong&gt;《xxx-友链互换》&lt;/strong&gt; 的邮件发送至&lt;a class=&#34;link&#34; href=&#34;mailto:HG021B@outlook.com&#34; &gt;HG021B@outlook.com&lt;/a&gt;，收到后我们将尽快与您取得联系。&lt;/p&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>
