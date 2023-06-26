@@ -30,6 +30,29 @@
   </url><url>
     <loc>https://hg021b.github.io/p/wechat/</loc>
     <lastmod>2023-06-25T10:36:03+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://hg021b.github.io/en/p/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://hg021b.github.io/p/wechat/"
+                />
+  </url><url>
+    <loc>https://hg021b.github.io/categories/</loc>
+    <lastmod>2020-09-09T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://hg021b.github.io/en/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://hg021b.github.io/categories/"
+                />
   </url><url>
     <loc>https://hg021b.github.io/p/test-chinese/</loc>
     <lastmod>2020-09-09T00:00:00+00:00</lastmod>
@@ -42,6 +65,19 @@
                 rel="alternate"
                 hreflang="zh-cn"
                 href="https://hg021b.github.io/p/test-chinese/"
+                />
+  </url><url>
+    <loc>https://hg021b.github.io/categories/test/</loc>
+    <lastmod>2020-09-09T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://hg021b.github.io/en/categories/test/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://hg021b.github.io/categories/test/"
                 />
   </url><url>
     <loc>https://hg021b.github.io/page/</loc>
@@ -70,18 +106,6 @@
                 href="https://hg021b.github.io/archives/"
                 />
   </url><url>
-    <loc>https://hg021b.github.io/categories/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://hg021b.github.io/en/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="https://hg021b.github.io/categories/"
-                />
-  </url><url>
     <loc>https://hg021b.github.io/tags/</loc>
     <xhtml:link
                 rel="alternate"
@@ -92,18 +116,6 @@
                 rel="alternate"
                 hreflang="zh-cn"
                 href="https://hg021b.github.io/tags/"
-                />
-  </url><url>
-    <loc>https://hg021b.github.io/categories/test/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://hg021b.github.io/en/categories/test/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="https://hg021b.github.io/categories/test/"
                 />
   </url><url>
     <loc>https://hg021b.github.io/%E5%85%B3%E4%BA%8E/</loc>

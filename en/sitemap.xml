@@ -131,6 +131,18 @@
                 href="https://hg021b.github.io/en/archives/"
                 />
   </url><url>
+    <loc>https://hg021b.github.io/en/p/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://hg021b.github.io/p/wechat/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://hg021b.github.io/en/p/"
+                />
+  </url><url>
     <loc>https://hg021b.github.io/en/links/</loc>
     <xhtml:link
                 rel="alternate"
