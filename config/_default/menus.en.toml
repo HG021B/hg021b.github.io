@@ -1,0 +1,96 @@
+# -- Main Menu --
+# The main menu is displayed in the header at the top of the page.
+# Acceptable parameters are name, pageRef, page, url, title, weight.
+# 
+# The simplest menu configuration is to provide:
+#   name = The name to be displayed for this menu link
+#   pageRef = The identifier of the page or section to link to
+#
+# By default the menu is ordered alphabetically. This can be
+# overridden by providing a weight value. The menu will then be
+# ordered by weight from lowest to highest.
+
+[[main]]
+  pre = "blogger"
+  name = "Article"
+  pageRef = "docs"
+  weight = 10
+
+
+
+[[main]]
+  pre = "ghost"
+  name = "Explore"
+  weight = 20
+
+[[main]]
+  pre = "navigation"
+  name = "Navigation Station"
+  parent = "Explore"
+  url = "https://nv.hg021b.org/"
+  weight = 16
+
+[[main]]
+  pre = "forums"
+  name = "Hacking Group Forum"
+  parent = "Explore"
+  url = "https://hackinggroup.org.cn"
+  weight = 30
+
+  
+[[main]]
+  pre =  "rss"
+  name = "RSS"
+  weight = 25
+
+[[main]]
+  pre = "chinese"
+  name = "Chinese subscription"
+  parent = "RSS"
+  url = "/index.xml"
+  weight = 16
+
+[[main]]
+  pre = "english"
+  name = "English subscription"
+  parent = "RSS"
+  url = "/en/index.xml"
+  weight = 30
+  
+
+
+[[main]]
+  pre =  "email"
+  name = "Contact us"
+  url = "mailto:hg021b@hotmail.com"
+  weight = 30
+
+
+[[main]]
+  identifier = "youtube"
+  pre = "youtube"
+  url = "https://www.youtube.com/@HG021B"
+  weight = 200
+
+
+[[main]]
+  identifier = "github"
+  pre = "github"
+  url = "https://github.com/hg021b"
+  weight = 400
+
+
+  
+# -- Footer Menu --
+# The footer menu is displayed at the bottom of the page, just before
+# the copyright notice. Configure as per the main menu above.
+
+ [[footer]]
+   name = "Tags"
+   pageRef = "tags"
+   weight = 10
+
+ [[footer]]
+   name = "Authors"
+   pageRef = "authors"
+   weight = 20

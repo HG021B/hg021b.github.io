@@ -1,0 +1,14 @@
+{{/* layouts/shortcodes/video.html */}}
+{{ $src := .Get "src" | relURL }}
+<video
+  src="{{ $src }}"
+  autoplay
+  muted
+  loop
+  playsinline
+  preload="metadata"
+  style="max-width:100%;height:auto;"
+  {{ if not .IsNamedParams }}controls{{ end }}
+>
+
+</video>

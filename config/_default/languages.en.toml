@@ -1,0 +1,23 @@
+languageCode = "en"
+languageName = "English"
+weight = 1
+title = "HG021B's Blog"
+
+[params]
+  displayName = "English"
+  isoCode = "en"
+  rtl = false
+  dateFormat = "2 January 2006"
+  logo = "img/avatar.png"
+  description = "The combination of the gentleman's hat and the exploration rabbit is like the \"Rabbit Hole\", which is a symbol of our exploration in the unknown world of attack and defense."
+
+[params.author]
+  name = "HG021B"
+  email = "hg021b@htomail.com"
+  image = "img/avatar2.png"
+  headline = "The combination of the gentleman's hat and the exploration rabbit is like the \"Rabbit Hole\", which is a symbol of our exploration in the unknown world of attack and defense."
+  bio = "The combination of the gentleman's hat and the exploration rabbit is like the \"Rabbit Hole\", which is a symbol of our exploration in the unknown world of attack and defense."
+  links = [
+    { x-twitter = "https://twitter.com/" },
+    { github = "https://github.com/hg021b" },
+  ]
